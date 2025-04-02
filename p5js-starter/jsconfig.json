@@ -5,7 +5,7 @@
   "include": [
     "*.js",
     "**/*.js",
-    "./p5types/global.d.ts"
+    "./types/global.d.ts"
   ]
 }
 
